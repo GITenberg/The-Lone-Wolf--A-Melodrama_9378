@@ -1,0 +1,31 @@
+_repo: The-Lone-Wolf--A-Melodrama_9378
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vance, Louis Joseph
+    birthdate: 1879
+    deathdate: 1933
+    gutenberg_agent_id: '2870'
+    url: http://www.gutenberg.org/2009/agents/2870
+description: The origin story of the Lone Wolf, master criminal with a conscienceOne
+  rainy winter night, an orphan is abandoned to the care of a shabby Parisian inn
+  called Troyon's. For the next eleven years, the boy is up before dawn to clean and
+  fetch and serve, his only respite the closet to which he retires at night and the
+  books he pilfers from the hotel's guests. A few francs here and there also find
+  their way into his pockets, but not so much that anyone would notice-anyone, that
+  is, except Bourke, the cultivated Irish thief who regularly hides out at Troyon's.
+  Caught red-handed, the amateur outwits.
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9378'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewel thieves -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Lone Wolf: A Melodrama'
+url: http://www.gutenberg.org/ebooks/9378
