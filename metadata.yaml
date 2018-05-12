@@ -1,5 +1,8 @@
 _repo: The-Lone-Wolf--A-Melodrama_9378
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vance, Louis Joseph
@@ -15,6 +18,8 @@ description: The origin story of the Lone Wolf, master criminal with a conscienc
   their way into his pockets, but not so much that anyone would notice-anyone, that
   is, except Bourke, the cultivated Irish thief who regularly hides out at Troyon's.
   Caught red-handed, the amateur outwits.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9378#The-Lone-Wolf--A-Melodrama
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
